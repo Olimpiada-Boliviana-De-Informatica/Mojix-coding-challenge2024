@@ -53,7 +53,7 @@ Only standard libraries are allowed. The use of external libraries is not allowe
 
 - Which strategies count as backtracking or memoization of states?
 
-Precalculating any situation of the game more than 3 moves ahead is considered backtracking.
+Precalculating any situation of the game more than 5 moves ahead is considered backtracking.
 Saving a possible answer given an specific state of the grid counts as memoization.
 
 - So, it is not possible to make decisions based on the state of the board?
