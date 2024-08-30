@@ -1,7 +1,7 @@
 # Programming Challenge 2024
 
 This time the challenge consists of creating a program that can play a game of Connect 4.<br>
-Each program will play 3 different games of Connect 4 against another participant's program.<br>
+Each program will play 4 different games of Connect 4 against another participant's program.<br>
 
 ## Connect 4 game format 
 
