@@ -60,3 +60,5 @@ Saving a possible answer given an specific state of the grid counts as memoizati
 
 It is possible, it is indeed the main idea of the challenge. But being careful of not having any pre calculated answer for a given state.
 Your moves should be calculated at the moment, considering the state of the board and the last moves of the other player.
+
+- Randomicity is of course allowed ;D
