@@ -7,12 +7,13 @@ Each program will play 3 different games of Connect 4 against another participan
 
 Connect 4 is a two-player connection game in which the players first choose a color and then take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
 
-## The challenge ##
+## The challenge
 
 For this challenge, 3 different types of connect 4 games will be played.  
 1. The first game will be played with the standard rules. 
-2. The second game will be played in a 1400 column by 1200 row grid.
-3. The third game will be in the 1400 column by 1200 row grid, but with the winning condition being 5 in a row/column/diagonal instead of 4.
+2. The second game will be played in a 7 column, 100 rows grid.
+3. The third game will be played in a 70 column, 10 rows grid.
+4. The fourth and final game will be in a 140 column by 120 row grid, but with the winning condition being 5 in a row/column/diagonal instead of 4.
 
 Each program will play 10 rounds of each type of game against another participant's program. 3 points will be awarded for each win, 1 point for each draw and 0 points for each loss. 
 
@@ -22,6 +23,7 @@ As a couple of additional rules:
 - The program must be able to play the game without human intervention.
 - The use of backtracking algorithms or memoization of states is **NOT ALLOWED.** Since this approach would make the game trivial to solve.
 - The time limit for each move is 0.1 seconds.
+- Each player will get 500 moves to win, in the case both players reach 500 moves a tie is declared.
 
 ## Behavior of the program 
 The program should read two initial integer values $C$ and $G$, representing the color of the player and the type of game, respectively. The color of the player will be 1 or 2, and the type of game will be 1, 2 or 3.
@@ -36,7 +38,8 @@ After that, the program shall output an integer value $1 \leq y \leq K$, where $
 
 Only for the first turn of the game, the program will not read the value of $x$.
 
-In the case the program wishes to insert a disc in a column that is already full, the victory will automatically be given to the other player. Thus each program should at all points save the state of the game.
+In the case the program wishes to insert a disc in a column that is already full, the victory will automatically be given to the other player. Thus each program should at all points save the current state of the game.
+If the grid is full at some point during the game, a tie is declared.
 
 ## Languages accepted ##
 - Python
@@ -45,3 +48,15 @@ In the case the program wishes to insert a disc in a column that is already full
 - C#
 
 Only standard libraries are allowed. The use of external libraries is not allowed.
+
+## FAQ
+
+- Which strategies count as backtracking or memoization of states?
+
+Precalculating any situation of the game more than 3 moves ahead is considered backtracking.
+Saving a possible answer given an specific state of the grid counts as memoization.
+
+- So, it is not possible to make decisions based on the state of the board?
+
+It is possible, it is indeed the main idea of the challenge. But being careful of not having any pre calculated answer for a given state.
+Your moves should be calculated at the moment, considering the state of the board and the last moves of the other player.
