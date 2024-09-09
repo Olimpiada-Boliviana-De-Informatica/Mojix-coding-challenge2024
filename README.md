@@ -26,7 +26,7 @@ As a couple of additional rules:
 - Each player will get 500 moves to win, in the case both players reach 500 moves a tie is declared.
 
 ## Behavior of the program 
-The program should read two initial integer values $C$ and $G$, representing the color of the player and the type of game, respectively. The color of the player will be 1 or 2, and the type of game will be 1, 2 or 3.
+The program should read two initial integer values $C$ and $G$, representing the color of the player and the type of game, respectively. The color of the player will be 1 or 2, and the type of game will be 1, 2, 3 or 4.
 
 Player with color 1 will always start the game.
 It is guaranteed that each program will be given 5 times the color 1 and 5 times the color 2 for each type of game.
@@ -62,3 +62,35 @@ It is possible, it is indeed the main idea of the challenge. But being careful o
 Your moves should be calculated at the moment, considering the state of the board and the last moves of the other player.
 
 - Randomicity is of course allowed ;D
+
+
+## Sample program for submission
+
+[SAMPLE CODE](sample.py)
+```python
+from random import randint
+
+c, g = map(int, input().split())
+
+needed = 4
+winner = False
+
+if g == 1:
+    k, r = 7, 6
+elif g == 2:
+    k, r = 7, 100
+elif g == 3:
+    k, r = 70, 10
+elif g == 4:
+    k, r = 140, 120
+    needed = 5
+
+if c == 1:
+    chosen_col = randint(1, k)
+    print(chosen_col)
+
+while not winner:
+    adversary_col = int(input())
+    chosen_col = randint(1, k)
+    print(chosen_col)
+```
