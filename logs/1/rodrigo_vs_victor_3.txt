@@ -1,0 +1,24 @@
+rodrigo plays: 4
+victor plays: 1
+rodrigo plays: 5
+victor plays: 1
+rodrigo plays: 4
+victor plays: 1
+rodrigo plays: 1
+victor plays: 1
+rodrigo plays: 5
+victor plays: 1
+rodrigo plays: 4
+victor plays: 2
+rodrigo plays: 4
+
+Final Board:
+
+2|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|1|0|0|0
+2|0|0|1|0|0|0
+2|0|0|1|1|0|0
+2|2|0|1|1|0|0
+
+Winner: rodrigo

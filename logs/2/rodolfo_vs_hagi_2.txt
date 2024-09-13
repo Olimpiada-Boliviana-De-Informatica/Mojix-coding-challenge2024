@@ -1,0 +1,307 @@
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 7
+hagi plays: 2
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 7
+hagi plays: 7
+
+Final Board:
+
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|2|0|1|0|0|1
+
+Winner: rodolfo

@@ -1,0 +1,18 @@
+victor plays: 1
+oscar plays: 4
+victor plays: 1
+oscar plays: 4
+victor plays: 1
+oscar plays: 4
+victor plays: 1
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+1|0|0|0|0|0|0
+1|0|0|2|0|0|0
+1|0|0|2|0|0|0
+1|0|0|2|0|0|0
+
+Winner: victor

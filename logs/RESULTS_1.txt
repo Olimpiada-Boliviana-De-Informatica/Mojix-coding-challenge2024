@@ -1,0 +1,1 @@
+{'henrique': 12, 'rodrigo': 180, 'oscar': 84, 'edilson': 63, 'rodolfo': 162, 'hagi': 105, 'victor': 69, 'andre': 165}

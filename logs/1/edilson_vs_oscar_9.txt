@@ -1,0 +1,19 @@
+edilson plays: 3
+oscar plays: 3
+edilson plays: 6
+oscar plays: 3
+edilson plays: 5
+oscar plays: 3
+edilson plays: 2
+oscar plays: 3
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|2|0|0|0|0
+0|0|2|0|0|0|0
+0|0|2|0|0|0|0
+0|0|2|0|0|0|0
+0|1|1|0|1|1|0
+
+Winner: oscar

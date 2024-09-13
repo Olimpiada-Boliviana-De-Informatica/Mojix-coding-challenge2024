@@ -1,0 +1,80 @@
+henrique plays: 7
+edilson plays: 34
+henrique plays: 6
+edilson plays: 11
+henrique plays: 63
+edilson plays: 65
+henrique plays: 43
+edilson plays: 15
+henrique plays: 17
+edilson plays: 29
+henrique plays: 60
+edilson plays: 12
+henrique plays: 8
+edilson plays: 64
+henrique plays: 4
+edilson plays: 22
+henrique plays: 36
+edilson plays: 20
+henrique plays: 26
+edilson plays: 37
+henrique plays: 59
+edilson plays: 5
+henrique plays: 57
+edilson plays: 48
+henrique plays: 48
+edilson plays: 41
+henrique plays: 30
+edilson plays: 65
+henrique plays: 4
+edilson plays: 45
+henrique plays: 49
+edilson plays: 55
+henrique plays: 24
+edilson plays: 58
+henrique plays: 57
+edilson plays: 34
+henrique plays: 52
+edilson plays: 37
+henrique plays: 61
+edilson plays: 19
+henrique plays: 41
+edilson plays: 31
+henrique plays: 28
+edilson plays: 55
+henrique plays: 24
+edilson plays: 45
+henrique plays: 23
+edilson plays: 30
+henrique plays: 50
+edilson plays: 39
+henrique plays: 67
+edilson plays: 22
+henrique plays: 61
+edilson plays: 22
+henrique plays: 69
+edilson plays: 44
+henrique plays: 35
+edilson plays: 42
+henrique plays: 13
+edilson plays: 50
+henrique plays: 16
+edilson plays: 48
+henrique plays: 68
+edilson plays: 45
+henrique plays: 9
+
+Final Board:
+
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|1|0|0|0|0|0|2|0|0|0|2|0|0|2|0|0|0|1|0|0|0|2|0|0|1|0|2|0|0|0|0|2|0|1|0|0|0|1|0|0|0|2|0|0|0|0|0
+0|0|0|1|2|1|1|1|1|0|2|2|1|0|2|1|1|0|2|2|0|2|1|1|0|1|0|1|2|1|2|0|0|2|1|1|2|0|2|0|2|2|1|2|2|0|0|2|1|1|0|1|0|0|2|0|1|2|1|1|1|0|1|2|2|0|1|1|1|0
+
+Winner: henrique

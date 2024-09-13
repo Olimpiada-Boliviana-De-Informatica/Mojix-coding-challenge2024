@@ -1,0 +1,20 @@
+edilson plays: 4
+oscar plays: 4
+edilson plays: 5
+oscar plays: 4
+edilson plays: 3
+oscar plays: 4
+edilson plays: 4
+oscar plays: 5
+edilson plays: 2
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|2|0|0
+0|1|1|1|1|0|0
+
+Winner: edilson

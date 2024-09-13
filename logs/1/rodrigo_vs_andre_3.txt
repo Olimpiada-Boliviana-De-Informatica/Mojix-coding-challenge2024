@@ -1,0 +1,28 @@
+rodrigo plays: 4
+andre plays: 1
+rodrigo plays: 5
+andre plays: 1
+rodrigo plays: 4
+andre plays: 1
+rodrigo plays: 1
+andre plays: 2
+rodrigo plays: 5
+andre plays: 3
+rodrigo plays: 4
+andre plays: 4
+rodrigo plays: 5
+andre plays: 5
+rodrigo plays: 3
+andre plays: 2
+rodrigo plays: 2
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+1|0|0|2|2|0|0
+2|1|0|1|1|0|0
+2|2|1|1|1|0|0
+2|2|2|1|1|0|0
+
+Winner: rodrigo

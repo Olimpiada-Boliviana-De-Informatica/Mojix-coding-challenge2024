@@ -1,0 +1,150 @@
+hagi plays: 36
+edilson plays: 7
+hagi plays: 36
+edilson plays: 50
+hagi plays: 36
+edilson plays: 36
+hagi plays: 36
+edilson plays: 36
+hagi plays: 36
+edilson plays: 36
+hagi plays: 36
+edilson plays: 36
+hagi plays: 50
+edilson plays: 34
+hagi plays: 34
+edilson plays: 57
+hagi plays: 1
+edilson plays: 32
+hagi plays: 32
+edilson plays: 61
+hagi plays: 1
+edilson plays: 68
+hagi plays: 68
+edilson plays: 12
+hagi plays: 12
+edilson plays: 50
+hagi plays: 50
+edilson plays: 26
+hagi plays: 26
+edilson plays: 19
+hagi plays: 1
+edilson plays: 1
+hagi plays: 1
+edilson plays: 1
+hagi plays: 1
+edilson plays: 1
+hagi plays: 1
+edilson plays: 1
+hagi plays: 3
+edilson plays: 47
+hagi plays: 3
+edilson plays: 58
+hagi plays: 58
+edilson plays: 44
+hagi plays: 44
+edilson plays: 27
+hagi plays: 3
+edilson plays: 3
+hagi plays: 3
+edilson plays: 3
+hagi plays: 3
+edilson plays: 3
+hagi plays: 3
+edilson plays: 3
+hagi plays: 5
+edilson plays: 11
+hagi plays: 5
+edilson plays: 69
+hagi plays: 5
+edilson plays: 5
+hagi plays: 5
+edilson plays: 5
+hagi plays: 5
+edilson plays: 5
+hagi plays: 5
+edilson plays: 5
+hagi plays: 7
+edilson plays: 63
+hagi plays: 7
+edilson plays: 49
+hagi plays: 48
+edilson plays: 68
+hagi plays: 48
+edilson plays: 2
+hagi plays: 2
+edilson plays: 58
+hagi plays: 58
+edilson plays: 2
+hagi plays: 2
+edilson plays: 50
+hagi plays: 50
+edilson plays: 24
+hagi plays: 25
+edilson plays: 69
+hagi plays: 24
+edilson plays: 51
+hagi plays: 52
+edilson plays: 60
+hagi plays: 59
+edilson plays: 48
+hagi plays: 62
+edilson plays: 42
+hagi plays: 42
+edilson plays: 63
+hagi plays: 48
+edilson plays: 48
+hagi plays: 48
+edilson plays: 19
+hagi plays: 52
+edilson plays: 54
+hagi plays: 54
+edilson plays: 40
+hagi plays: 40
+edilson plays: 42
+hagi plays: 42
+edilson plays: 33
+hagi plays: 31
+edilson plays: 2
+hagi plays: 35
+edilson plays: 55
+hagi plays: 56
+edilson plays: 46
+hagi plays: 45
+edilson plays: 53
+hagi plays: 2
+edilson plays: 13
+hagi plays: 10
+edilson plays: 65
+hagi plays: 14
+edilson plays: 32
+hagi plays: 10
+edilson plays: 10
+hagi plays: 10
+edilson plays: 31
+hagi plays: 14
+edilson plays: 25
+hagi plays: 32
+edilson plays: 13
+hagi plays: 46
+edilson plays: 40
+hagi plays: 40
+edilson plays: 19
+hagi plays: 19
+edilson plays: 47
+hagi plays: 47
+
+Final Board:
+
+2|0|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|0|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|1|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+1|2|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|1|2|0|2|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|1|0|1|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0
+1|2|1|0|1|0|1|0|0|2|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|1|0|0|0|2|0|2|0|0|0|0|1|2|0|2|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|2|0|0
+1|1|1|0|1|0|1|0|0|1|0|1|2|1|0|0|0|0|2|0|0|0|0|1|2|1|0|0|0|0|2|1|0|1|0|1|0|0|0|1|0|1|0|1|0|1|2|1|0|1|0|1|0|1|0|0|0|1|0|0|0|0|2|0|0|0|0|1|2|0
+1|2|1|0|1|0|2|0|0|1|2|2|2|1|0|0|0|0|2|0|0|0|0|2|1|2|2|0|0|0|1|2|2|2|1|1|0|0|0|2|0|2|0|2|1|2|2|1|2|2|2|1|2|2|2|1|2|2|1|2|2|1|2|0|2|0|0|2|2|0
+
+Winner: hagi

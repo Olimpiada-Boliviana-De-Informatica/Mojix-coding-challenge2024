@@ -1,0 +1,70 @@
+edilson plays: 50
+henrique plays: 55
+edilson plays: 8
+henrique plays: 23
+edilson plays: 20
+henrique plays: 58
+edilson plays: 24
+henrique plays: 29
+edilson plays: 19
+henrique plays: 13
+edilson plays: 19
+henrique plays: 17
+edilson plays: 28
+henrique plays: 9
+edilson plays: 52
+henrique plays: 17
+edilson plays: 38
+henrique plays: 17
+edilson plays: 17
+henrique plays: 48
+edilson plays: 9
+henrique plays: 32
+edilson plays: 55
+henrique plays: 4
+edilson plays: 39
+henrique plays: 9
+edilson plays: 48
+henrique plays: 21
+edilson plays: 43
+henrique plays: 67
+edilson plays: 65
+henrique plays: 9
+edilson plays: 19
+henrique plays: 26
+edilson plays: 47
+henrique plays: 6
+edilson plays: 56
+henrique plays: 48
+edilson plays: 12
+henrique plays: 27
+edilson plays: 63
+henrique plays: 59
+edilson plays: 41
+henrique plays: 28
+edilson plays: 42
+henrique plays: 68
+edilson plays: 56
+henrique plays: 52
+edilson plays: 29
+henrique plays: 29
+edilson plays: 69
+henrique plays: 22
+edilson plays: 56
+henrique plays: 39
+edilson plays: 56
+
+Final Board:
+
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|2|0|1|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|2|0|1|0|0|0|0|0|0|0|0|2|1|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+0|0|0|2|0|2|0|1|2|0|0|1|2|0|0|0|2|0|1|1|2|2|2|1|0|2|2|1|2|0|0|2|0|0|0|0|0|1|1|0|1|1|1|0|0|0|1|2|0|1|0|1|0|0|2|1|0|2|2|0|0|0|1|0|1|0|2|2|1|0
+
+Winner: edilson

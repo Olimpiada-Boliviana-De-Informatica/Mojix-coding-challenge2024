@@ -1,0 +1,30 @@
+andre plays: 1
+rodolfo plays: 4
+andre plays: 1
+rodolfo plays: 4
+andre plays: 1
+rodolfo plays: 1
+andre plays: 4
+rodolfo plays: 4
+andre plays: 2
+rodolfo plays: 4
+andre plays: 3
+rodolfo plays: 4
+andre plays: 2
+rodolfo plays: 7
+andre plays: 3
+rodolfo plays: 7
+andre plays: 3
+rodolfo plays: 2
+andre plays: 3
+
+Final Board:
+
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+2|0|1|2|0|0|0
+1|2|1|1|0|0|0
+1|1|1|2|0|0|2
+1|1|1|2|0|0|2
+
+Winner: andre

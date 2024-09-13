@@ -1,0 +1,18 @@
+andre plays: 1
+oscar plays: 4
+andre plays: 1
+oscar plays: 4
+andre plays: 1
+oscar plays: 4
+andre plays: 1
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+1|0|0|0|0|0|0
+1|0|0|2|0|0|0
+1|0|0|2|0|0|0
+1|0|0|2|0|0|0
+
+Winner: andre

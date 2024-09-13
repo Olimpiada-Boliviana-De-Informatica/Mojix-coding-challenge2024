@@ -1,0 +1,39 @@
+victor plays: 1
+andre plays: 1
+victor plays: 1
+andre plays: 1
+victor plays: 1
+andre plays: 1
+victor plays: 2
+andre plays: 3
+victor plays: 2
+andre plays: 2
+victor plays: 2
+andre plays: 2
+victor plays: 2
+andre plays: 4
+victor plays: 3
+andre plays: 3
+victor plays: 3
+andre plays: 5
+victor plays: 6
+andre plays: 4
+victor plays: 3
+andre plays: 4
+victor plays: 4
+andre plays: 3
+victor plays: 4
+andre plays: 4
+victor plays: 5
+andre plays: 5
+
+Final Board:
+
+2|1|2|2|0|0|0
+1|2|1|1|0|0|0
+2|1|1|1|0|0|0
+1|2|2|2|2|0|0
+2|1|1|2|1|0|0
+1|1|2|2|2|1|0
+
+Winner: andre

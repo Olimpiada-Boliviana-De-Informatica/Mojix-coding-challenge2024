@@ -1,0 +1,18 @@
+rodrigo plays: 4
+edilson plays: 4
+rodrigo plays: 3
+edilson plays: 7
+rodrigo plays: 2
+edilson plays: 3
+rodrigo plays: 1
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|2|2|0|0|0
+1|1|1|1|0|0|2
+
+Winner: rodrigo

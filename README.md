@@ -94,3 +94,6 @@ while not winner:
     chosen_col = randint(1, k)
     print(chosen_col)
 ```
+
+## FINAL RESULTS:
+<img src="Final_Results.png" class="center"/>

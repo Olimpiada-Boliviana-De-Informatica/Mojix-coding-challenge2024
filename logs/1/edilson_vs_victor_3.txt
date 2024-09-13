@@ -1,0 +1,21 @@
+edilson plays: 7
+victor plays: 1
+edilson plays: 7
+victor plays: 1
+edilson plays: 2
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+
+Final Board:
+
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+2|0|0|0|0|0|1
+2|1|0|0|0|0|1
+
+Winner: edilson

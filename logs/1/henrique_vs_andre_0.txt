@@ -1,0 +1,25 @@
+henrique plays: 5
+andre plays: 1
+henrique plays: 3
+andre plays: 4
+henrique plays: 5
+andre plays: 5
+henrique plays: 6
+andre plays: 7
+henrique plays: 6
+andre plays: 4
+henrique plays: 3
+andre plays: 4
+henrique plays: 7
+andre plays: 4
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|2|0|0
+0|0|1|2|1|1|1
+2|0|1|2|1|1|2
+
+Winner: andre

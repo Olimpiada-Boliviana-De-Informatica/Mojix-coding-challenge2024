@@ -1,0 +1,118 @@
+hagi plays: 36
+edilson plays: 65
+hagi plays: 36
+edilson plays: 52
+hagi plays: 36
+edilson plays: 36
+hagi plays: 36
+edilson plays: 36
+hagi plays: 36
+edilson plays: 36
+hagi plays: 36
+edilson plays: 36
+hagi plays: 52
+edilson plays: 69
+hagi plays: 1
+edilson plays: 50
+hagi plays: 50
+edilson plays: 44
+hagi plays: 44
+edilson plays: 43
+hagi plays: 1
+edilson plays: 69
+hagi plays: 1
+edilson plays: 1
+hagi plays: 1
+edilson plays: 1
+hagi plays: 1
+edilson plays: 1
+hagi plays: 1
+edilson plays: 1
+hagi plays: 3
+edilson plays: 52
+hagi plays: 52
+edilson plays: 58
+hagi plays: 58
+edilson plays: 32
+hagi plays: 32
+edilson plays: 32
+hagi plays: 32
+edilson plays: 70
+hagi plays: 70
+edilson plays: 12
+hagi plays: 12
+edilson plays: 44
+hagi plays: 44
+edilson plays: 49
+hagi plays: 51
+edilson plays: 2
+hagi plays: 2
+edilson plays: 7
+hagi plays: 3
+edilson plays: 49
+hagi plays: 3
+edilson plays: 3
+hagi plays: 3
+edilson plays: 3
+hagi plays: 3
+edilson plays: 3
+hagi plays: 3
+edilson plays: 3
+hagi plays: 5
+edilson plays: 12
+hagi plays: 12
+edilson plays: 41
+hagi plays: 42
+edilson plays: 37
+hagi plays: 42
+edilson plays: 13
+hagi plays: 5
+edilson plays: 67
+hagi plays: 68
+edilson plays: 69
+hagi plays: 69
+edilson plays: 41
+hagi plays: 68
+edilson plays: 44
+hagi plays: 44
+edilson plays: 39
+hagi plays: 5
+edilson plays: 5
+hagi plays: 5
+edilson plays: 5
+hagi plays: 5
+edilson plays: 5
+hagi plays: 5
+edilson plays: 5
+hagi plays: 7
+edilson plays: 8
+hagi plays: 8
+edilson plays: 70
+hagi plays: 70
+edilson plays: 49
+hagi plays: 49
+edilson plays: 13
+hagi plays: 7
+edilson plays: 10
+hagi plays: 9
+edilson plays: 18
+hagi plays: 11
+edilson plays: 42
+hagi plays: 10
+edilson plays: 32
+hagi plays: 9
+
+Final Board:
+
+2|0|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|0|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|0|2|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+1|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2|0|2|0|2|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1
+1|0|1|0|1|0|1|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|1|0|0|0|0|0|2|0|2|0|0|0|0|2|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|2
+1|1|1|0|1|0|1|1|1|1|0|1|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|2|1|0|1|0|0|0|0|2|1|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|2|1
+1|2|1|0|1|0|2|2|1|2|1|2|2|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|1|2|0|2|0|2|1|2|2|0|0|0|0|2|2|1|2|0|0|0|0|0|2|0|0|0|0|0|0|2|0|2|1|2|2
+
+Winner: hagi

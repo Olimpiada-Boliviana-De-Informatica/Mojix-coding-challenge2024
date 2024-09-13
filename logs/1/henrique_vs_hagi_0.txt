@@ -1,0 +1,19 @@
+henrique plays: 4
+hagi plays: 4
+henrique plays: 7
+hagi plays: 4
+henrique plays: 6
+hagi plays: 4
+henrique plays: 1
+hagi plays: 4
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+1|0|0|1|0|1|1
+
+Winner: hagi

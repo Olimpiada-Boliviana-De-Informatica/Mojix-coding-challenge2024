@@ -1,0 +1,42 @@
+hagi plays: 4
+rodrigo plays: 4
+hagi plays: 4
+rodrigo plays: 3
+hagi plays: 4
+rodrigo plays: 3
+hagi plays: 4
+rodrigo plays: 4
+hagi plays: 1
+rodrigo plays: 3
+hagi plays: 3
+rodrigo plays: 1
+hagi plays: 1
+rodrigo plays: 5
+hagi plays: 1
+rodrigo plays: 5
+hagi plays: 1
+rodrigo plays: 1
+hagi plays: 3
+rodrigo plays: 5
+hagi plays: 5
+rodrigo plays: 3
+hagi plays: 5
+rodrigo plays: 5
+hagi plays: 7
+rodrigo plays: 7
+hagi plays: 7
+rodrigo plays: 2
+hagi plays: 2
+rodrigo plays: 2
+hagi plays: 2
+
+Final Board:
+
+2|0|2|2|2|0|0
+1|0|1|1|1|0|0
+1|1|1|1|1|0|0
+1|2|2|1|2|0|1
+2|1|2|2|2|0|2
+1|2|2|1|2|0|1
+
+Winner: hagi

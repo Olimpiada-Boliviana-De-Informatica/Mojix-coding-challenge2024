@@ -1,0 +1,209 @@
+edilson plays: 5
+victor plays: 1
+edilson plays: 5
+victor plays: 1
+edilson plays: 6
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+
+Final Board:
+
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+2|0|0|0|1|0|0
+2|0|0|0|1|1|0
+
+Winner: edilson

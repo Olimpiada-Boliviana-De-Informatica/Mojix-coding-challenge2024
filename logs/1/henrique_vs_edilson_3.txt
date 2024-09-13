@@ -1,0 +1,38 @@
+henrique plays: 1
+edilson plays: 4
+henrique plays: 1
+edilson plays: 1
+henrique plays: 2
+edilson plays: 6
+henrique plays: 1
+edilson plays: 4
+henrique plays: 4
+edilson plays: 6
+henrique plays: 3
+edilson plays: 7
+henrique plays: 6
+edilson plays: 2
+henrique plays: 1
+edilson plays: 2
+henrique plays: 2
+edilson plays: 6
+henrique plays: 6
+edilson plays: 4
+henrique plays: 6
+edilson plays: 4
+henrique plays: 1
+edilson plays: 7
+henrique plays: 2
+edilson plays: 3
+henrique plays: 6
+
+Final Board:
+
+1|0|0|0|0|1|0
+1|1|0|2|0|1|0
+1|1|0|2|0|2|0
+2|2|0|1|0|1|0
+1|2|2|2|0|2|2
+1|1|1|2|0|2|2
+
+Winner: edilson

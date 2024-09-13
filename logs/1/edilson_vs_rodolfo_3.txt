@@ -1,0 +1,21 @@
+edilson plays: 5
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 7
+rodolfo plays: 4
+edilson plays: 3
+rodolfo plays: 4
+edilson plays: 5
+rodolfo plays: 4
+
+Final Board:
+
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|1|0|0
+0|0|1|2|1|0|1
+
+Winner: rodolfo

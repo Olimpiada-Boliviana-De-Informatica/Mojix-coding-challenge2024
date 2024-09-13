@@ -1,0 +1,39 @@
+victor plays: 1
+rodolfo plays: 4
+victor plays: 1
+rodolfo plays: 4
+victor plays: 1
+rodolfo plays: 1
+victor plays: 1
+rodolfo plays: 4
+victor plays: 4
+rodolfo plays: 4
+victor plays: 1
+rodolfo plays: 4
+victor plays: 2
+rodolfo plays: 7
+victor plays: 2
+rodolfo plays: 7
+victor plays: 2
+rodolfo plays: 2
+victor plays: 2
+rodolfo plays: 7
+victor plays: 7
+rodolfo plays: 5
+victor plays: 6
+rodolfo plays: 5
+victor plays: 6
+rodolfo plays: 5
+victor plays: 5
+rodolfo plays: 6
+
+Final Board:
+
+1|0|0|2|0|0|0
+1|1|0|2|0|0|0
+2|2|0|1|1|0|1
+1|1|0|2|2|2|2
+1|1|0|2|2|1|2
+1|1|0|2|2|1|2
+
+Winner: rodolfo

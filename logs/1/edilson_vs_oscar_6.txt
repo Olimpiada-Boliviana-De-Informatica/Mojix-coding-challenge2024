@@ -1,0 +1,35 @@
+edilson plays: 2
+oscar plays: 4
+edilson plays: 6
+oscar plays: 4
+edilson plays: 6
+oscar plays: 4
+edilson plays: 4
+oscar plays: 4
+edilson plays: 4
+oscar plays: 6
+edilson plays: 2
+oscar plays: 2
+edilson plays: 3
+oscar plays: 2
+edilson plays: 2
+oscar plays: 3
+edilson plays: 2
+oscar plays: 3
+edilson plays: 7
+oscar plays: 3
+edilson plays: 6
+oscar plays: 7
+edilson plays: 6
+oscar plays: 5
+
+Final Board:
+
+0|1|0|1|0|0|0
+0|1|0|2|0|1|0
+0|2|2|1|0|1|0
+0|2|2|2|0|2|0
+0|1|2|2|0|1|2
+0|1|1|2|2|1|1
+
+Winner: oscar

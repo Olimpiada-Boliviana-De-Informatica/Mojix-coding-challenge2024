@@ -1,0 +1,21 @@
+edilson plays: 2
+hagi plays: 4
+edilson plays: 2
+hagi plays: 4
+edilson plays: 3
+hagi plays: 4
+edilson plays: 4
+hagi plays: 4
+edilson plays: 4
+hagi plays: 4
+
+Final Board:
+
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|1|0|2|0|0|0
+0|1|1|2|0|0|0
+
+Winner: edilson

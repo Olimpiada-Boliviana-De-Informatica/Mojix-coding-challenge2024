@@ -1,0 +1,218 @@
+rodolfo plays: 4
+edilson plays: 7
+rodolfo plays: 4
+edilson plays: 7
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 4
+edilson plays: 4
+rodolfo plays: 7
+edilson plays: 5
+rodolfo plays: 7
+edilson plays: 7
+rodolfo plays: 7
+edilson plays: 2
+rodolfo plays: 7
+edilson plays: 1
+rodolfo plays: 7
+edilson plays: 3
+rodolfo plays: 7
+
+Final Board:
+
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+0|0|0|2|0|0|0
+0|0|0|1|0|0|1
+0|0|0|2|0|0|1
+0|0|0|1|0|0|1
+0|0|0|2|0|0|1
+0|0|0|1|0|0|2
+0|0|0|2|0|0|1
+0|0|0|1|0|0|1
+0|0|0|1|0|0|2
+2|2|2|1|2|0|2
+
+Winner: rodolfo

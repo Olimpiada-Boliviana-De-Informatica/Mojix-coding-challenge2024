@@ -1,0 +1,19 @@
+henrique plays: 3
+oscar plays: 3
+henrique plays: 7
+oscar plays: 3
+henrique plays: 7
+oscar plays: 3
+henrique plays: 2
+oscar plays: 3
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|2|0|0|0|0
+0|0|2|0|0|0|0
+0|0|2|0|0|0|0
+0|0|2|0|0|0|1
+0|1|1|0|0|0|1
+
+Winner: oscar

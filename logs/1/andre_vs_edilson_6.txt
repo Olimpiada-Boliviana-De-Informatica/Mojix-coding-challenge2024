@@ -1,0 +1,22 @@
+andre plays: 1
+edilson plays: 5
+andre plays: 1
+edilson plays: 6
+andre plays: 1
+edilson plays: 1
+andre plays: 2
+edilson plays: 7
+andre plays: 4
+edilson plays: 5
+andre plays: 3
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|0|0|0|0|0|0
+1|0|0|0|2|0|0
+1|1|1|1|2|2|2
+
+Winner: andre

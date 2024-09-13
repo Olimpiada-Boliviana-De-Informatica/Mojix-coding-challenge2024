@@ -1,0 +1,18 @@
+edilson plays: 6
+henrique plays: 2
+edilson plays: 4
+henrique plays: 1
+edilson plays: 5
+henrique plays: 3
+edilson plays: 7
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+2|2|2|1|1|1|1
+
+Winner: edilson

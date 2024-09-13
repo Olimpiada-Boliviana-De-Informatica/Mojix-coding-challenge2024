@@ -1,0 +1,19 @@
+henrique plays: 4
+rodrigo plays: 4
+henrique plays: 7
+rodrigo plays: 4
+henrique plays: 7
+rodrigo plays: 4
+henrique plays: 7
+rodrigo plays: 4
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|0
+0|0|0|2|0|0|1
+0|0|0|2|0|0|1
+0|0|0|1|0|0|1
+
+Winner: rodrigo

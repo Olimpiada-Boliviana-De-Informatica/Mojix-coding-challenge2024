@@ -1,0 +1,18 @@
+rodolfo plays: 4
+henrique plays: 3
+rodolfo plays: 4
+henrique plays: 7
+rodolfo plays: 4
+henrique plays: 6
+rodolfo plays: 4
+
+Final Board:
+
+0|0|0|0|0|0|0
+0|0|0|0|0|0|0
+0|0|0|1|0|0|0
+0|0|0|1|0|0|0
+0|0|0|1|0|0|0
+0|0|2|1|0|2|2
+
+Winner: rodolfo

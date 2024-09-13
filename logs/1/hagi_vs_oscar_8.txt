@@ -1,0 +1,24 @@
+hagi plays: 4
+oscar plays: 4
+hagi plays: 4
+oscar plays: 4
+hagi plays: 4
+oscar plays: 4
+hagi plays: 1
+oscar plays: 5
+hagi plays: 1
+oscar plays: 5
+hagi plays: 1
+oscar plays: 5
+hagi plays: 1
+
+Final Board:
+
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+1|0|0|2|0|0|0
+1|0|0|1|2|0|0
+1|0|0|2|2|0|0
+1|0|0|1|2|0|0
+
+Winner: hagi

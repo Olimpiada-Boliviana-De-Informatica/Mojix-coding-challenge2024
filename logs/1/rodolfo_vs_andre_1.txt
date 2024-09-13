@@ -1,0 +1,36 @@
+rodolfo plays: 4
+andre plays: 1
+rodolfo plays: 4
+andre plays: 4
+rodolfo plays: 4
+andre plays: 1
+rodolfo plays: 4
+andre plays: 1
+rodolfo plays: 1
+andre plays: 4
+rodolfo plays: 7
+andre plays: 2
+rodolfo plays: 7
+andre plays: 3
+rodolfo plays: 7
+andre plays: 7
+rodolfo plays: 5
+andre plays: 6
+rodolfo plays: 5
+andre plays: 6
+rodolfo plays: 5
+andre plays: 5
+rodolfo plays: 3
+andre plays: 6
+rodolfo plays: 2
+
+Final Board:
+
+0|0|0|2|0|0|0
+0|0|0|1|0|0|0
+1|0|0|1|2|0|2
+2|0|0|2|1|2|1
+2|1|1|1|1|2|1
+2|2|2|1|1|2|1
+
+Winner: rodolfo

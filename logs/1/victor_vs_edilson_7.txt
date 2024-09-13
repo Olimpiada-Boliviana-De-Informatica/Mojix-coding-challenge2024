@@ -1,0 +1,19 @@
+victor plays: 1
+edilson plays: 1
+victor plays: 1
+edilson plays: 6
+victor plays: 1
+edilson plays: 7
+victor plays: 1
+edilson plays: 2
+
+Final Board:
+
+0|0|0|0|0|0|0
+1|0|0|0|0|0|0
+1|0|0|0|0|0|0
+1|0|0|0|0|0|0
+2|0|0|0|0|0|0
+1|2|0|0|0|2|2
+
+Winner: edilson

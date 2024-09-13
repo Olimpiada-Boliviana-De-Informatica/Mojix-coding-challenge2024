@@ -1,0 +1,32 @@
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 4
+rodolfo plays: 4
+hagi plays: 1
+rodolfo plays: 7
+hagi plays: 1
+rodolfo plays: 7
+hagi plays: 1
+rodolfo plays: 1
+hagi plays: 1
+rodolfo plays: 7
+hagi plays: 7
+rodolfo plays: 5
+hagi plays: 1
+rodolfo plays: 5
+hagi plays: 3
+rodolfo plays: 5
+hagi plays: 2
+
+Final Board:
+
+1|0|0|2|0|0|0
+1|0|0|1|0|0|0
+2|0|0|2|0|0|1
+1|0|0|1|2|0|2
+1|0|0|2|2|0|2
+1|1|1|1|2|0|2
+
+Winner: hagi

@@ -1,0 +1,6 @@
+{'henrique': 42, 'oscar': 0, 'edilson': 48, 'rodolfo': 180, 'hagi': 120, 'victor': 105, 'andre': 135}
+
+Rodrigo was given a score of 0, since his code was taking more than 0.1 seconds to give an output for every move in all matches.
+Thus his matches were not able to be simulated.
+After considering this:
+{'henrique': 72, 'rodrigo': 0, 'oscar': 30, 'edilson': 78, 'rodolfo': 210, 'hagi': 150, 'victor': 135, 'andre': 165}
